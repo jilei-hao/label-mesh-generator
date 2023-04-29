@@ -1,0 +1,6 @@
+[submodule "vtk"]
+	path = vtk
+	url = https://github.com/Kitware/VTK.git
+[submodule "itk"]
+	path = itk
+	url = https://github.com/InsightSoftwareConsortium/ITK.git
